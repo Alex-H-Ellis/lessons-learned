@@ -1,4 +1,4 @@
-# There are many things to think about when developing a mobile strategy.
+### There are many things to think about when developing a mobile strategy.
 
 **First of all - do you even need to develop a mobile strategy? In today's day and age, the answer to this question is almost definitely "Yes!"**
 
