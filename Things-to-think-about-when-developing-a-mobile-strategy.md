@@ -12,10 +12,10 @@ The answer to this question depends on the situation but, generally, you want to
 
 **Once you've reached this step, you must decide how to build the app - how should you go about this?**
 
-Developing a native app from the get go is almost never a good idea. This is for a few reasons, including (1) you likely have no idea which features are the most important to your mobile users, (2) you will have to develop native apps for each platform, and (3) it can be very, very expensive and potentially all for naught.
+Developing a native app from the get go is almost never a good idea*. This is for a few reasons, including (1) you likely have no idea which features are the most important to your mobile users, (2) you will have to develop native apps for each platform, and (3) it can be very, very expensive and potentially all for naught.
 
 Using a development tool like [PhoneGap](http://www.phonegap.com) or [Titanium](http://www.appcelerator.com/titanium/) will at least get you started and will help you understand what features to eventually keep, add or exclude from your native apps in the future. The maxim here is: "Don't code when you don't need to."
 
- // Note: if you are a major corporation, with the budget and a great understanding of your product and customers, then native first may make sense.
+ **Note: if you are a major corporation, with the budget and a great understanding of your product and customers, then native first may make sense.*
 
 
