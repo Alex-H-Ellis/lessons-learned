@@ -1,8 +1,8 @@
-![alt text](http://blog.markerly.com/wp-content/uploads/2013/04/memes5_03.png)
-
 There are many things to think about when developing a mobile strategy.
 
 *First of all - do you even need to develop a mobile strategy? In today's day and age, the answer to this question is almost definitely "Yes!"*
+
+![alt text](http://blog.markerly.com/wp-content/uploads/2013/04/memes5_03.png)
 
 Even if most of your users are not visiting through their mobile devices, you should still optimize your site for mobile because at least SOME of your users will come through that way and more will undoubtedly come in the future.
 
