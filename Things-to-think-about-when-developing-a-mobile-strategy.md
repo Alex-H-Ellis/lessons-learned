@@ -18,4 +18,4 @@ Using a platform like PhoneGap will at least get you started and will help you u
 
  // Note: if you are a major corporation, with the budget and a great understanding of your product and customers, then native first may make sense.
 
-[Click here to learn more about PhoneGap](https://www.phonegap.com)
+[Click here to learn more about PhoneGap](http://www.phonegap.com)
