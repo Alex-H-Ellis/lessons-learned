@@ -16,6 +16,6 @@ Developing a native app from the get go is almost never a good idea. This is for
 
 Using a development tool like [PhoneGap](http://www.phonegap.com) or [Titanium](http://www.appcelerator.com/titanium/) will at least get you started and will help you understand what features to eventually keep, add or exclude from your native apps in the future. The maxim here is: "Don't code when you don't need to."
 
- *Note: if you are a major corporation, with the budget and a great understanding of your product and customers, then native first may make sense.*
+ *Note: if you are a large corporation, with the budget and a great understanding of your product and customers, then native first may make sense.*
 
 
